@@ -6,9 +6,8 @@ def convert():
 
 
 window =Tk()
-window.title("Inch to Cm converter")
+window.title("Length Converter App")
 window.geometry("400x400")
-
 entry = Entry(window)
 entry.pack()
 
